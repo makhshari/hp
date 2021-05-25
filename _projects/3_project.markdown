@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: JSBug2Graph
+description: Graph-based JavaScript Bug Detector Using Graph Neural Networks
+img: /assets/img/3.jpg
 importance: 3
-category: work
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: JSBug2Graph
+description: Graph-based JavaScript Bug Detector Using Graph Neural Networks
+img: /assets/img/2.jpg
 importance: 2
-category: work
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.
