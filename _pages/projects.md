@@ -2,9 +2,9 @@
 layout: page
 title: Selected Projects
 permalink: /projects/
-description: A selection of my research/work projects.
+description: A selection of my research & development projects.
 nav: true
-display_categories: [Research, Development]
+display_categories: [Projects]
 horizontal: false
 ---
 <div class="projects">
