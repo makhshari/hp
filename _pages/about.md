@@ -2,20 +2,16 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://people.ece.ubc.ca/amesbah/salt/"> Software Analysis and Testing (SALT) Lab</a>)
-
-<a href="https://ece.ubc.ca/">Electrical and Computer Engineering (ECE) Department </a>
-
-<a href="http://ubc.ca">University of British Columbia (UBC)</a>)
+description: Software Analysis and Testing (<a href="https://people.ece.ubc.ca/amesbah/salt/">SALT</a>) Lab| Electrical and Computer Engineering ( <a href="https://ece.ubc.ca/">ECE</a>) Department| University of British Columbia (<a href="http://ubc.ca">UBC</a>)
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Software Engineering Researcher</p>
-    <p>Research Assistant</p>
-    <p>Teaching Assistant</p>
+    <p>Kaiser 3040</p>
+    <p>2332 Main Mall</p>
     <p>Vancouver, BC, Canada</p>
+      <p>V6T 1Z4</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
