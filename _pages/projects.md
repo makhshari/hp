@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Selected Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A selection of my research/work projects.
 nav: true
-display_categories: [work, fun]
+display_categories: [Research, Development]
 horizontal: false
 ---
 <div class="projects">
