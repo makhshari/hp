@@ -1,7 +1,7 @@
 ---
 layout: page
-title: JSBug2Graph
-description: Graph-based JavaScript Bug Detector Using Graph Neural Networks
+title: StressThing
+description: IoT Stress Testing Platform
 img: /assets/img/3.jpg
 importance: 3
 category: Research

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: JSBug2Graph
-description: Graph-based JavaScript Bug Detector Using Graph Neural Networks
+title: DroidCov
+description: Android Test Automation Tool
 img: /assets/img/2.jpg
 importance: 2
 category: Research
