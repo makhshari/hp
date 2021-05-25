@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JSBug2Graph
+title: Bug2Graph
 description: Graph-based JavaScript Bug Detector Using Graph Neural Networks
 img: /assets/img/1.jpg
 importance: 1
