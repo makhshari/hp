@@ -3,76 +3,22 @@ layout: page
 title: DroidCov
 description: Android Test Automation Tool
 img: /assets/img/2.jpg
-importance: 2
-category: Research
+importance: 2 
+category: Development
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<h3> (2020) DroidCov: Android Test Automation Tool</h3>
+<img src="./imgs/android.png"></img>
+<p>In this project we developed an automated way to test a set of Android apps using all the state-of-the-art Android testing tools
+which are <a href="https://dl.acm.org/doi/pdf/10.1145/2931037.2931054">Sapienz</a> proposed in 2016,
+<a href="https://dl.acm.org/doi/pdf/10.1109/ICSE.2019.00042">Ape</a> proposed in 2019, 
+and <a href="https://developer.android.com/studio/test/monkey">Monkey</a> which is the most popular Android testing tool proposed by Google.
+</p>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
+---
+<ul>
+<li>Used for <b>replication</b> of previous papers' experiments and testing a benchmark of around 30 Android apps automatically using all testing tools. Benchmark apps are selected from <a href="https://ieeexplore.ieee.org/abstract/document/7372031">Choudhary et al paper</a>, and <a href="https://dl.acm.org/doi/pdf/10.1109/ICSE.2019.00042">Ape paper</a>.</li>
+<li>This tool can be used in a practical Android development context too, as it automatically can <b>test multiple versions of apps</b> using different testing tools simultaneously and collect <b>app failures and coverage results</b> for Android developers.</li>
+<li> Studied the role of <b>randmocitiy</b> and <b>number of iterations</b> on the coverage achieved by proposed testing approaches. </li>
+<ul>
+---

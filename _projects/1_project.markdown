@@ -4,8 +4,8 @@ title: JSBug2Graph
 description: Graph-based JavaScript Bug Detector Using Graph Neural Networks
 img: /assets/img/1.jpg
 importance: 1
-redirect: https://github.com/msintaha/BugClassificationWithGNN
-category: Projects
+redirect: https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf
+category: Development
 ---
 
 Every project has a beautiful feature showcase page.
