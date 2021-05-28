@@ -1,31 +1,24 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+fromto:
+inline: true
 ---
-
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
-***
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+<h2>Education</h2>
+<h5 style="text-align:left;float:left;"> MASc. in Software Engineering - <a href="http://ubc.ca">@UBC</a><h5> 
+<h5 style="text-align:right;float:right;">2019-2021</h5>
+<hr style="clear:both;"/>
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+        <li><b>GPA: 4.15</b></li>
+        <li> <a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/67/IoT-Bugs-and-Development-Challenges">Thesis</a>: Analysis and Characterization of Bugs and Development Challenges in IoT.</li>
+        <li>Supervisor: <a href="https://ece.ubc.ca/person/ali-mesbah/">Ali Mesbah </a> - Associate Professor at UBC.</li>
+        <li>UBC is ranked <b>1st in Canada/6th in the world in SE research</b> based on <a href="http://csrankings.org/#/index?soft&world">CSRankings</a>.</li>
 </ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<h5 style="text-align:left;float:left;"> BASc. in Computer Engineering <a href="https://aut.ac.ir/en">@AUT</a></h5>
+<h5 style="text-align:right;float:right;">2014-2019</h5>
+<hr style="clear:both;"/>
+<ul>
+        <li><b>GPA</b> (last two years): <b>3.98</b></li>
+        <li><a href="https://github.com/amhab/StressThing">Thesis</a>: Proposing a Testing Framework For Stress/Load Testing IoT Systems.</li>
+        <li>Supervisor: <a href="https://scholar.google.com/citations?user=I_uJBz4AAAAJ&hl=en">Ahmad Barforoush</a> - Professor at AUT.</li>
+         <li>AUT is ranked <b>1st in Iran in CS/CE</b> based on <a href="https://www.guide2research.com/ranking/IR">guide2research</a> -- Ranked 1st in Iran  and 48th in the world in innovation influence based on <a href="https://www.timeshighereducation.com/">THE</a>.</li>
+</ul>

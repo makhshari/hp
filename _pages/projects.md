@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Selected Projects
+title: projects
 permalink: /projects/
-description: A selection of my Research & Development projects.
+description: A selection of my Research & Development projects. Visit my <u><a href="https://github.com/makhshari">GitHub</a></u> for other projects.
 nav: true
 display_categories: [Development, Research]
 horizontal: false

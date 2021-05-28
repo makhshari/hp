@@ -4,7 +4,7 @@ title: Bug2Graph
 description: Graph-based JavaScript Bug Detector Using Graph Neural Networks
 img: /assets/img/1.jpg
 importance: 1
-redirect: https://people.ece.ubc.ca/amirosein/files/graphStudy.pdf
+redirect: https://github.com/msintaha/BugClassificationWithGNN
 category: Development
 ---
 
