@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A selection of my Research & Development projects. Visit my <u><a href="https://github.com/makhshari">GitHub</a></u> for other projects.
 nav: true
-display_categories: [Development, Research]
+display_categories: [Projects]
 horizontal: false
 ---
 <div class="projects">

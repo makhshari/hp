@@ -1,19 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: experience
+title: Experience
 description: Research/Development/Teaching Experience
 nav: true
 ---
-  <br> 
-  <h2>Research Experiences</h2>
+<h2 style="text-align:left;float:left;">Research Experiences</h2> 
+<h2 style="text-align:right;float:right;">2018-2021</h2>
+<hr style="clear:both;"/>
   <ul>
+        <li>Systematically characterizing <b>IoT test suits</b> in different layers of IoT architecture (device, edge, cloud, app) and from different angles (component-under-test, test level and quality)</li>
         <li>Proposed a <b>bug taxonomy</b> for IoT with <b>Root Cause Analysis (RCA)</b> of more than 300 IoT bugs (<a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/67/IoT-Bugs-and-Development-Challenges">published in ICSE</a>).</li>
         <li>Systematically characterized the <b>development challenges</b> in IoT with <b>interviews and survey</b> with more than 200 IoT developers involved (<a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/67/IoT-Bugs-and-Development-Challenges">published in ICSE</a>).</li>
         <li>Provided an <b>IoT bug benchmark</b> consists of 323 labeled IoT bugs which is evaluated as <b>Reusable</b> by ICSE artifact evaluation committee (<a href="https://conf.researchr.org/details/icse-2021/icse-2021-Artifact-Evaluation/39/IoT-Bugs-and-Development-Challenges">published in ICSE Companion </a>).</li>
-        <li>Conducted a large-scale automatic categorization of IoT-related <b>StackOverflow</b> discussions using Topic Modeling and Latent Dirichlet Allocation (LDA).</li>
+        <li>Conducted a large-scale automatic categorization of IoT-related <b>StackOverflow</b> discussions using Latent Dirichlet Allocation (LDA) <b>Topic Modeling</b> technique.</li>
         <li>Proposed an automatic <b>test case generation</b> technique for IoT systems, using <b>path coverage</b> of IoT SmartApps code. Experimented on <b>AWS</b> and <b>SmartThings</b> IoT platforms.</li>
-        <li>Current Research: Systematically characterizing <b>IoT test suits</b> in different layers of IoT architecture (device, edge, cloud, app) and from different angels (tested components, test level and quality).</li>
+        <li>Proposed a <a href="https://github.com/makhshari/StressThing">Testing Tool</a> for <b>Stress Testing</b> IoT systems. This tool utilizes <b>System Modeling</b> using IoT system specifications based on <b>W3C standards</b>, and provides web-based graphical insights on IoT <b>System Reliability</b> based on various software engineering quality metrics such as <b>MTTF, MTBF, and MTTR</b>.</li>
+
   </ul>
 
 <br> 
@@ -50,22 +53,37 @@ nav: true
     <li>Worked closely with the project supervisor and the back-end team.</li>
 </ul>
 
+
 <br> 
 <hr style="border:3px solid gray">
 <br> 
 
   <h2>Teaching Experiences</h2>
-  <ul>
-    <li> <h5>CPSC 455- <b>Software Engineering Applied Industry Skills</b> </h5></li>
-    <ul>
-      <li>Department of Computer Science at UBC.</li>
-    </ul>
-    <li> <h5>CPSC 319: <b>Software Engineering Projects</b></h5></li>
-    <ul>
-        <li>Department of Computer Science at UBC. </li>
-    </ul>
-    <li><h5>CPSC 410: <b>Advanced Software Engineering</b></h5></li>
-    <ul>
-        <li>Department of Computer Science at UBC. </li>
-    </ul>
-  </ul>
+
+<h4 style="text-align:left;float:left;">CPSC 455- Software Engineering Applied Industry Skills</h4> 
+<h4 style="text-align:right;float:right;">2021</h4>
+<hr style="clear:both;"/>
+<ul>
+      <li>400-level course- Department of Computer Science at UBC.</li>
+      <li>Mentoring students during interactive workshops and labs in <b>front-end and back-end web development</b> and using <b>NoSQL databases</b>.</li>
+</ul>
+
+<br>
+
+<h4 style="text-align:left;float:left;">CPSC 319- Software Engineering Projects</h4> 
+<h4 style="text-align:right;float:right;">2020</h4>
+<hr style="clear:both;"/>
+<ul>
+      <li>300-level course- Department of Computer Science at UBC.</li>
+      <li>Working directly with <b>Stakeholders from <a href="https://www.hsbc.ca/">HSBC bank</a></b> and two large student groups to deliver an email campaign service following a Waterfall SDLC methodology and using <b>AWS</b> services such as <b>Amplify, DynamoDB, SES, and S3</b>.</li>
+</ul>
+
+<br>
+
+<h4 style="text-align:left;float:left;">CPSC 410: Advanced Software Engineering</h4> 
+<h4 style="text-align:right;float:right;">2020</h4>
+<hr style="clear:both;"/>
+<ul>
+      <li>400-level course- Department of Computer Science at UBC.</li>
+      <li>Responsible for directing five student groups towards developing static and dynamic <b>source code analysis</b> tools, applying <b>design patterns</b>, and developing self-defined DSLs all in <b>Java</b>.</li>
+</ul>

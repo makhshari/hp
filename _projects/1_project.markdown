@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Bug2Graph
-description: Graph-based JavaScript Bug Detector Using Graph Neural Networks
+title: GNN4Code
+description: A handy tool to help using various GNN classifiers for ML4Code tasks such as automatic Bug Detection
 img: /assets/img/1.jpg
 importance: 1
 redirect: https://github.com/msintaha/BugClassificationWithGNN
-category: Development
+category: Projects
 ---
 
 Every project has a beautiful feature showcase page.

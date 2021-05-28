@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Homepage
 permalink: /
 description: <a href="https://people.ece.ubc.ca/amesbah/salt/">SALT</a> Lab | <a href="https://ece.ubc.ca/">ECE</a> Department |  University of British Columbia (<a href="http://ubc.ca">UBC</a>)
 

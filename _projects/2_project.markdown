@@ -3,8 +3,8 @@ layout: page
 title: DroidCov
 description: Android Test Automation Tool
 img: /assets/img/2.jpg
-importance: 2 
-category: Development
+importance: 5
+category: Projects
 ---
 
 <h3> (2020) DroidCov: Android Test Automation Tool</h3>
