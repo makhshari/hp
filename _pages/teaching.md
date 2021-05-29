@@ -2,10 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Experience
-description: Research/Development/Teaching Experience
+description: Research/Development/Teaching Experience.
 nav: true
 ---
-<h2 style="text-align:left;float:left;">Research Experiences</h2> 
+<h2 style="text-align:left;float:left;"><b>Research Experience</b></h2> 
 <h2 style="text-align:right;float:right;">2018-2021</h2>
 <hr style="clear:both;"/>
   <ul>
@@ -23,7 +23,7 @@ nav: true
 <hr style="border:3px solid gray">
 <br> 
 
-<h2><b>Development Experiences</b></h2>
+<h2><b>Development Experience</b></h2>
 <h4 style="text-align:left;float:left;">Back-end Developer @ AUT IoT Lab</h4> 
 <h4 style="text-align:right;float:right;">2019</h4>
 <hr style="clear:both;"/>
@@ -58,7 +58,7 @@ nav: true
 <hr style="border:3px solid gray">
 <br> 
 
-  <h2>Teaching Experiences</h2>
+  <h2><b>Teaching Experience</b></h2>
 
 <h4 style="text-align:left;float:left;">CPSC 455- Software Engineering Applied Industry Skills</h4> 
 <h4 style="text-align:right;float:right;">2021</h4>
