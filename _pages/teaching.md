@@ -28,9 +28,9 @@ nav: true
 <h4 style="text-align:right;float:right;">2019</h4>
 <hr style="clear:both;"/>
 <ul>
-<li>Responsible for <b>testing and code maintenance</b> of an IoT platform back-end services written with PHP Laravel.</li>
-<li>Solved known bugs in the permission system, improved the event logging and error management of the IoT platform.</li>
-<li>As a PHP <b>back-end developer</b>, worked closely with the clients and the IoT core team and debugged other developers' code.</li>
+<li>As a <b>PHP back‑end developer</b>, was responsible for testing and code maintenance of more than <b>100 micro‑services</b> in the IoT platform.</li>
+<li>Solved known bugs in the permission system, improved the event logging and error management by <b>debugging</b> other developers’ buggy code.</li>
+<li>Worked closely with the clients and the IoT core team to successfully pass the <b>load requirement</b> of handling <b>5000 concurrent nodes</b>.</li>
 </ul>
 
 <br>
@@ -40,7 +40,7 @@ nav: true
 <hr style="clear:both;"/>
 <ul>
     <li>Designed and implemented a JavaScript IoT hub server and an iOS/Android mobile app using React Native for an IoT-based monitoring system for remote TV transmitters.</li>
-    <li>Responsible for <b>testing</b> the product with real on-site TV transmitter devices and working closely with the hardware engineering team.</li>
+    <li><b>Consistent team‑work</b> with the hardware engineering team for <b>testing and deploying</b> the product with real on‑site TV transmitters.</li>
 </ul>
 
 <br>
@@ -49,8 +49,8 @@ nav: true
 <h4 style="text-align:right;float:right;">2017</h4>
 <hr style="clear:both;"/>
 <ul>
-    <li>Built an iOS application to control smart light bulb devices in our office remotely.</li>
-    <li>Worked closely with the project supervisor and the back-end team.</li>
+    <li>Built an <b>iOS application</b> to control smart light bulb devices in our office remotely.</li>
+    <li>Worked closely with the project supervisor and the back‑end team to <b>design APIs in Java</b>, that allow other developers to query the IoT lamps.</li>
 </ul>
 
 
@@ -65,7 +65,7 @@ nav: true
 <hr style="clear:both;"/>
 <ul>
       <li>400-level course- Department of Computer Science at UBC.</li>
-      <li>Mentoring students during interactive workshops and labs in <b>front-end and back-end web development</b> and using <b>NoSQL databases</b>.</li>
+      <li>Mentoring students during interactive web development workshops and labs about <b>front‑end development (React.js)</b>, <b>back‑end API development (Express.js)</b>, and <b>NoSQL databases (MongoDB)</b>.</li>
 </ul>
 
 <br>
@@ -85,5 +85,5 @@ nav: true
 <hr style="clear:both;"/>
 <ul>
       <li>400-level course- Department of Computer Science at UBC.</li>
-      <li>Responsible for directing five student groups towards developing static and dynamic <b>source code analysis</b> tools, applying <b>design patterns</b>, and developing self-defined DSLs all in <b>Java</b>.</li>
+      <li>Responsible for directing five student groups towards developing static and dynamic <b>source code analysis</b> tools, applying <b>design patterns</b>, and developing self-defined <b>domain‑specific languages</b> all in <b>Java</b>.</li>
 </ul>
